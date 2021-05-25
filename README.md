@@ -21,4 +21,4 @@ Add the following line at the top of the relevant config files in /etc/pam.d to 
 
 	auth sufficient pam_bluetooth.so
 
-For eg. /etc/pam.d/gdm-password/etc/pam.d/gdm-password for gdm lockscreen, /etc/pam.d/sudo for sudo.
+For eg. /etc/pam.d/gdm-password for gdm lockscreen, /etc/pam.d/sudo for sudo.
